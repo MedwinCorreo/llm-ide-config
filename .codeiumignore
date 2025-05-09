@@ -1,0 +1,5 @@
+# Ignore all .env* files inside env/
+env/.env*
+
+# But keep .env.sample
+!env/.env.sample
